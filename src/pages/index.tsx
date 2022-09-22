@@ -3,7 +3,7 @@ import type { NextPage } from 'next'
 const Home: NextPage = () => {
   return (
     <div >
-      server is running!!
+      server is running!
     </div>
   )
 }
